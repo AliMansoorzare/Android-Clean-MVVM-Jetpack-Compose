@@ -1,5 +1,5 @@
 # Clean-MVVM-Jetpack-Compose-Note-Andorid-App
-#### My note app project with jetpack compose and Clean, MVVM architecture.
+#### My note app project with jetpack compose and Clean, MVVM architecture(It's a private project.).
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/XPz3z02lEGE)
 ---
 
