@@ -4,7 +4,6 @@
 ---
 
 
-![Honeyview_8ca17c38-03e6-4a68-aa05-db61ff3afce0](https://user-images.githubusercontent.com/91757328/208116216-d4de2828-748c-4543-919c-68f335f6201c.png)
 ![Honeyview_86f66e08-e378-4b51-92f8-498fd60d09b8](https://user-images.githubusercontent.com/91757328/208116224-69ba2d3f-60f0-4342-ac6e-57ce0f0d1df0.png)
 ![Honeyview_711c08fd-1e25-47f4-8e04-24d634084bcc](https://user-images.githubusercontent.com/91757328/208116229-36a20afe-eaa8-4617-856e-6600fae96449.png)
 ![Honeyview_809fb16c-897f-4a89-b759-51a1cc5eb0d9](https://user-images.githubusercontent.com/91757328/208116241-157de690-7714-4ba7-820f-75f38f5fe7fc.png)
