@@ -1,4 +1,4 @@
-# Android-MVVM-Composable-View-NoteApp
+# Android-Clean-MVVM-Jetpack-Composep
 My note app project with jetpack compose and MVVM architecture.
 ---
 #### Application download link
