@@ -12,6 +12,6 @@ My note app project with jetpack compose and MVVM architecture.
 ###### [3. Retrofit2](https://square.github.io/retrofit/)<br />
 ###### [3. Room](https://developer.android.com/jetpack/androidx/releases/room)<br />
 ###### [3. hilt](https://developer.android.com/training/dependency-injection/hilt-android)<br />
-###### [3. neumorphism](https://github.com/fornewid/neumorphi)<br />
+###### [3. neumorphism](https://github.com/fornewid/neumorphism)<br />
 
-sm
+
