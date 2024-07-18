@@ -1,9 +1,6 @@
 # Android-Clean-MVVM-Jetpack-Composep
 My note app project with jetpack compose and MVVM architecture.
 ---
-#### Application download link
-#### https://maemaeen73.ir/noteApp.apk
----
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.aparat.com/v/nswl3)
 ---
 ### Used Libraries<br />
